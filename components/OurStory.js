@@ -9,7 +9,7 @@ export default function OurStory() {
        
         <div className="w-full md:w-1/2 p-4" data-aos="fade-left" data-aos-duration="2000">
           <h3 className="text-3xl font-bold">
-            OUR <span className="text-blue-500">STORY</span>
+            OUR STORY
           </h3>
           <Image src="/our-story-2.png" alt="" width={800} height={1000} />
           <h1 className="text-5xl font-bold mt-2">
@@ -19,7 +19,7 @@ export default function OurStory() {
           Established in 2014, Moon River Thai is a restaurant located in the Business District of Danville, Virginia. 
           The restaurant prides itself on providing guests with an authentic taste of Thai cuisine, intimate atmosphere, 
           and impeccable customer service. 
-          Whether you're a seasoned Thai food enthusiast or trying it for the first time, the team at Moon River Thai is dedicated to ensuring that you have a memorable and enjoyable dining experience.
+          Whether you are a seasoned Thai food enthusiast or trying it for the first time, the team at Moon River Thai is dedicated to ensuring that you have a memorable and enjoyable dining experience.
            Come and enjoy a taste of Thai in Southside Virginia!
           </p>
         </div>
