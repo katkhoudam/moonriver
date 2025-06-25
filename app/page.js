@@ -12,7 +12,7 @@ export default function Home() {
       <h1 className="text-4xl font-bold">Welcome to Moon River Thai</h1>
       <Image src="/logo.png" alt="" width={800} height={1000} />
       <p className="mt-4 text-lg">Enjoy the best food in town!</p>
-      <ChefRecommends />
+     
       <OurStory />
       <Footer />
     </div>
